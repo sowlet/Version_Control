@@ -7,5 +7,6 @@ public class Main {
         System.out.println("Hello main!");
 	System.out.println("This is another commit/add");
 	System.out.println("This is my third commit");
+	System.out.println("This change is only in the branch branch_test");
     }
 }
